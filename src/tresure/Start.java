@@ -33,6 +33,8 @@ public class Start {
         System.out.println("");
         int coins = t4.getPrevTreasure().getGoldCoin()+t2.getNextTreasure().getPrevTreasure().getGoldCoin();
         System.out.println(coins);
+        
+        System.out.println("NEW GIT ENTRY**********8");
     
     
     
